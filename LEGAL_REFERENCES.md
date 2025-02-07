@@ -94,6 +94,10 @@ Understanding these legal precedents can **help you assert your rights** when de
 
 ---
 
+💯 indicates this information has been vetted by AI using web search.
+
+---
+
 ## 📌 Additional Resources
 - [Texas Penal Code](https://statutes.capitol.texas.gov/?link=PE)
 - [ACLU – Know Your Rights](https://www.aclu.org/know-your-rights)
