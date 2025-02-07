@@ -45,6 +45,7 @@ Here are some key **Texas laws and legal precedents** that outline when law enfo
 Yes, that description accurately captures the essence of the Supreme Court’s holding in Ybarra v. Illinois. In this case, the Court made clear that a warrant issued to search a specific place (and a specifically named person, such as the bartender) does not automatically give law enforcement the authority to search other individuals present simply because they happen to be at that location. In other words, mere presence in an area where illegal activity is occurring does not, by itself, establish probable cause to search an individual unless there is additional, individualized evidence linking that person to criminal conduct.
 
 For example, the Court explained that the warrant in Ybarra did not include the patrons of the tavern. Since the warrant was limited to the tavern and the bartender, there was no constitutional justification for the officers to extend the search to a patron like Ybarra without specific evidence indicating his involvement in criminal activity. This ruling reinforces the principle that individualized probable cause is required to justify a search of a person, rather than relying solely on their proximity to a location where criminal activity is suspected.
+
 ---
 
 ## 2. Traffic Stops After Leaving a Drug House
