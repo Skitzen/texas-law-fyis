@@ -127,6 +127,7 @@ This holding underscores that police discretion under the Fourth Amendment is li
 | **Carroll v. United States (1925)**   | If police have probable cause, they can search a car without a warrant. 💯                                                                                                                                                      |
 | **Bailey v. United States (2013)**    | Police cannot detain or search everyone leaving a drug house without specific evidence linking them to criminal activity. 💯                                                                                                    |
 | **Brown v. Texas (1979)**             | Being in a high‑crime area is not enough for police to stop you; officers must have reasonable suspicion of criminal activity. 💯                                                                                              |
+
 💯 means the key takeaway was verified by AI using web search. 
 ---
 
